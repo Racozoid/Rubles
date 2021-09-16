@@ -45,7 +45,7 @@
 - Язык программирования: Python 3
 - Среда разработки: PyCharm
 
-![Screenshot](github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot0.PNG "Скрин")
+![Screenshot](https://github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot0.PNG?raw=true "Скрин")
 
 ### Как запустить?
 
@@ -57,8 +57,8 @@
 Вводить нужно целое число от 1 до 9999. После вывода числа 
 программой следует нажать ENTER для завершения работы программы
 
-![Screenshot](github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot1.PNG "Скрин1")
+![Screenshot](https://github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot1.PNG?raw=true "Скрин1")
 
-![Screenshot](github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot2.PNG "Скрин2")
+![Screenshot](https://github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot2.PNG?raw=true "Скрин2")
 
-![Screenshot](github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot3.PNG "Скрин3")
+![Screenshot](https://github.com/Racozoid/Second_Lab_For_Applied_Programming/blob/main/screenshot3.PNG?raw=true "Скрин3")
